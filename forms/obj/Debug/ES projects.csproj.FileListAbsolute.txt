@@ -1,0 +1,264 @@
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\ES projects.exe.config
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\ES projects.exe
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\ES projects.pdb
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\Azure.Core.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\Azure.Identity.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\System.Buffers.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\System.Memory.Data.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\System.Memory.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\System.Security.Permissions.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\System.Text.Json.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\System.ValueTuple.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\Azure.Core.xml
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\Azure.Identity.xml
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\System.Buffers.xml
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\System.Memory.xml
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\System.Memory.Data.xml
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\System.Security.Permissions.xml
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\System.Text.Json.xml
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\System.ValueTuple.xml
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\obj\Debug\ES projects.csproj.AssemblyReference.cache
+C:\Users\Hamza Farooqi\Desktop\ES projects\obj\Debug\ES_projects.Form1.resources
+C:\Users\Hamza Farooqi\Desktop\ES projects\obj\Debug\ES_projects.Properties.Resources.resources
+C:\Users\Hamza Farooqi\Desktop\ES projects\obj\Debug\ES projects.csproj.GenerateResource.cache
+C:\Users\Hamza Farooqi\Desktop\ES projects\obj\Debug\ES projects.csproj.CoreCompileInputs.cache
+C:\Users\Hamza Farooqi\Desktop\ES projects\obj\Debug\ES projects.csproj.CopyComplete
+C:\Users\Hamza Farooqi\Desktop\ES projects\obj\Debug\ES projects.exe
+C:\Users\Hamza Farooqi\Desktop\ES projects\obj\Debug\ES projects.pdb
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\Database1.mdf
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\Database1_log.ldf
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Hamza Farooqi\Desktop\ES projects\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Hamza Farooqi\Desktop\ES projects\obj\Debug\ES_projects.SignUpForm.resources
+C:\Users\Hamza Farooqi\Desktop\ES projects\obj\Debug\ES_projects.adminAddProject.resources
+C:\Users\Hamza Farooqi\Desktop\ES projects\obj\Debug\ES_projects.adminAssigndeveloper.resources
+C:\Users\Hamza Farooqi\Desktop\ES projects\obj\Debug\ES_projects.AdminAssignTeam.resources
+C:\Users\Hamza Farooqi\Desktop\ES projects\obj\Debug\ES_projects.adminDashboard.resources
+C:\Users\Hamza Farooqi\Desktop\ES projects\obj\Debug\ES_projects.leader.resources
+C:\Users\Hamza Farooqi\Desktop\ES projects\obj\Debug\ES_projects.prgrammer.resources
+C:\Users\AR\Downloads\ES projects\bin\Debug\Database1.mdf
+C:\Users\AR\Downloads\ES projects\bin\Debug\Database1_log.ldf
+C:\Users\AR\Downloads\ES projects\bin\Debug\ES projects.exe.config
+C:\Users\AR\Downloads\ES projects\bin\Debug\ES projects.exe
+C:\Users\AR\Downloads\ES projects\bin\Debug\ES projects.pdb
+C:\Users\AR\Downloads\ES projects\bin\Debug\Azure.Core.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\Azure.Identity.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\System.Buffers.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\System.Data.SqlClient.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\System.Memory.Data.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\System.Memory.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\System.Security.AccessControl.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\System.Security.Permissions.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\System.Text.Json.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\System.ValueTuple.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\Azure.Core.xml
+C:\Users\AR\Downloads\ES projects\bin\Debug\Azure.Identity.xml
+C:\Users\AR\Downloads\ES projects\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\AR\Downloads\ES projects\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\AR\Downloads\ES projects\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\AR\Downloads\ES projects\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\AR\Downloads\ES projects\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\AR\Downloads\ES projects\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\AR\Downloads\ES projects\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\AR\Downloads\ES projects\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\AR\Downloads\ES projects\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\AR\Downloads\ES projects\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\AR\Downloads\ES projects\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\AR\Downloads\ES projects\bin\Debug\System.Buffers.xml
+C:\Users\AR\Downloads\ES projects\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\AR\Downloads\ES projects\bin\Debug\System.Data.SqlClient.xml
+C:\Users\AR\Downloads\ES projects\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\AR\Downloads\ES projects\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\AR\Downloads\ES projects\bin\Debug\System.Memory.xml
+C:\Users\AR\Downloads\ES projects\bin\Debug\System.Memory.Data.xml
+C:\Users\AR\Downloads\ES projects\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\AR\Downloads\ES projects\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\AR\Downloads\ES projects\bin\Debug\System.Security.AccessControl.xml
+C:\Users\AR\Downloads\ES projects\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\AR\Downloads\ES projects\bin\Debug\System.Security.Permissions.xml
+C:\Users\AR\Downloads\ES projects\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\AR\Downloads\ES projects\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\AR\Downloads\ES projects\bin\Debug\System.Text.Json.xml
+C:\Users\AR\Downloads\ES projects\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\AR\Downloads\ES projects\bin\Debug\System.ValueTuple.xml
+C:\Users\AR\Downloads\ES projects\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\AR\Downloads\ES projects\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\AR\Downloads\ES projects\obj\Debug\ES projects.csproj.AssemblyReference.cache
+C:\Users\AR\Downloads\ES projects\obj\Debug\ES_projects.adminAddProject.resources
+C:\Users\AR\Downloads\ES projects\obj\Debug\ES_projects.adminAssigndeveloper.resources
+C:\Users\AR\Downloads\ES projects\obj\Debug\ES_projects.AdminAssignTeam.resources
+C:\Users\AR\Downloads\ES projects\obj\Debug\ES_projects.adminDashboard.resources
+C:\Users\AR\Downloads\ES projects\obj\Debug\ES_projects.Form1.resources
+C:\Users\AR\Downloads\ES projects\obj\Debug\ES_projects.leader.resources
+C:\Users\AR\Downloads\ES projects\obj\Debug\ES_projects.prgrammer.resources
+C:\Users\AR\Downloads\ES projects\obj\Debug\ES_projects.Properties.Resources.resources
+C:\Users\AR\Downloads\ES projects\obj\Debug\ES_projects.SignUpForm.resources
+C:\Users\AR\Downloads\ES projects\obj\Debug\ES projects.csproj.GenerateResource.cache
+C:\Users\AR\Downloads\ES projects\obj\Debug\ES projects.csproj.CoreCompileInputs.cache
+C:\Users\AR\Downloads\ES projects\obj\Debug\ES projects.csproj.CopyComplete
+C:\Users\AR\Downloads\ES projects\obj\Debug\ES projects.exe
+C:\Users\AR\Downloads\ES projects\obj\Debug\ES projects.pdb
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\Database1.mdf
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\Database1_log.ldf
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\Azure.Core.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\Azure.Identity.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\System.Buffers.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\System.Data.SqlClient.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\System.Memory.Data.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\System.Memory.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\System.Security.AccessControl.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\System.Security.Permissions.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\System.Text.Json.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\System.ValueTuple.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\Azure.Core.xml
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\Azure.Identity.xml
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\System.Buffers.xml
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\System.Data.SqlClient.xml
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\System.Memory.xml
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\System.Memory.Data.xml
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\System.Security.AccessControl.xml
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\System.Security.Permissions.xml
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\System.Text.Json.xml
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\System.ValueTuple.xml
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\obj\Debug\ES projects.csproj.AssemblyReference.cache
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\obj\Debug\ES_projects.adminAddProject.resources
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\obj\Debug\ES_projects.adminAssigndeveloper.resources
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\obj\Debug\ES_projects.AdminAssignTeam.resources
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\obj\Debug\ES_projects.adminDashboard.resources
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\obj\Debug\ES_projects.Form1.resources
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\obj\Debug\ES_projects.leader.resources
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\obj\Debug\ES_projects.prgrammer.resources
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\obj\Debug\ES_projects.Properties.Resources.resources
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\obj\Debug\ES_projects.SignUpForm.resources
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\obj\Debug\ES projects.csproj.GenerateResource.cache
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\obj\Debug\ES projects.csproj.CoreCompileInputs.cache
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\obj\Debug\ES projects.csproj.CopyComplete
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\obj\Debug\ES projects.exe
+C:\Users\shehr\OneDrive\Documents\ES-Project\ES projects\ES projects\obj\Debug\ES projects.pdb
